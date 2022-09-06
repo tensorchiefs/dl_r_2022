@@ -1,2 +1,2 @@
-# dl_r_2022
-Deep Learning with R (with a probabilistic spin)
+# dl_rcouse_2022
+Deep Learning using R (with a probabilistic spin)
