@@ -2,9 +2,10 @@
 # Deep Learning with R
 
 ## Main Idea of the course
-This course in deep learning (DL) focuses on practical aspects of DL. In this course, we understand DL models as probabilistic models. I.e. the parameters of a probability distribution are controlled by a neural network. From this prespective DL models are a complex generalisation of statistical models like linear regression. The parameters can be determined by the maximum likelihood principle, we also briefly touch a Bayesian extensions on neural networks.    
-![This is an image](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/ch05_00_opener.pdf)
+This course in deep learning (DL) focuses on practical aspects of DL. In this course, we understand DL models as probabilistic models. I.e. the parameters of a probability distribution are controlled by a neural network. From this prespective DL models are just a complex generalisation of statistical models like linear regression. The parameters of the model itself (called weights in the deep learning context) can be determined by the maximum likelihood principle. The basic idea can be sketched as:
+![This is an image](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/ch05_00_opener.jpg)
 
+We also briefly touch a Bayesian extensions on neural networks.
 ## Technicalities
 This course is done in R. The used DL libraries are keras, tensorflow, and tensorflow probability. For doing the hands-on part we recommend to use colab (you need a google account) and an internet connections. A simple notebook is given in XXX. If you want to do it without internet connection, on your own computer you can try to install tensorflow, keras, and (for the latter lessons) tfprobability.   
 
