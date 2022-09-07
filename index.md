@@ -6,11 +6,10 @@ This short course on deep learning (DL) we focuses on practical aspects of DL an
 
 <img src="https://github.com/tensorchiefs/dl_rcourse_2022/raw/main/ch05_00_opener.jpg" width="40%">
 
-We also briefly touch a Bayesian extensions on neural networks.
 ## Technicalities
 This course is done in R. The used DL libraries are keras, tensorflow, and tensorflow probability. For doing the hands-on part we recommend to use colab (you need a google account) and an internet connections. An empty notebook for R can be started by clicking the following link 
 
-https://colab.research.google.com/notebook#create=true&language=r (starts a colab notebook with R) 
+[https://colab.research.google.com/notebook#create=true&language=r](https://colab.research.google.com/notebook#create=true&language=r) (starts a colab notebook with R) 
 
 An example notebook, which installs the required DL-Liberies is  [00_R_Keras_TF_TFP](https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb). If you want to do it without internet connection, on your own computer you can try to install tensorflow, keras, and (for the latter lessons) tfprobability as done in the notebook [00_R_Keras_TF_TFP](https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb).   
 
