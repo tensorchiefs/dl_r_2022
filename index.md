@@ -17,7 +17,7 @@ An example notebook, which installs the required DL-Liberies is  [00_R_Keras_TF_
 ## Other resources 
 We took inspiration (and sometimes slides / figures) from the following resources.
 
-* Probabilistic Deep Learning (DL-Book) [Probabilistic Deep Learning](https://www.manning.com/books/probabilistic-deep-learning?a_aid=probabilistic_deep_learning&a_bid=78e55885). This book is by us the tensorchiefs and cover the probabilistic approach to deep learning. We will not cover all aspects of this book during the course. The examples in the book are in python. 
+* Probabilistic Deep Learning (DL-Book) [Probabilistic Deep Learning](https://www.manning.com/books/probabilistic-deep-learning?a_aid=probabilistic_deep_learning&a_bid=78e55885). This book is by us, the tensorchiefs, and covers the probabilistic approach to deep learning unsing Python, Keras, and TensorFlow. We will not cover all aspects of this book during the course.  
 
 * Deep Learning Book (DL-Book) [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/). This is a quite comprehensive book which goes far beyond the scope of this course. 
 
