@@ -21,6 +21,8 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * Deep Learning with R [https://tensorflow.rstudio.com/](https://tensorflow.rstudio.com/). Nice resource with DL tutorials in R.
 
+* R Markdown Scripts for DL in R [https://github.com/fmmattioni/deep-learning-with-r-notebooks](https://github.com/fmmattioni/deep-learning-with-r-notebooks) from the author of the Book [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
+
 * Deep Learning Book (DL-Book) [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/). This is a quite comprehensive book which goes far beyond the scope of this course. 
 
 * Convolutional Neural Networks for Visual Recognition [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/), has additional material and [youtube videos of the lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC). While the focus is on computer vision, it also treats other topics such as optimization, backpropagation and RNNs. Lecture notes can be found at [http://cs231n.github.io/](http://cs231n.github.io/).
