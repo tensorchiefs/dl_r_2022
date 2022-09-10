@@ -2,7 +2,7 @@
 # Deep Learning with R
 
 ## Main Idea of the course
-This short course on deep learning (DL) with R we focuses on practical aspects of DL and understand DL models as probabilistic models. I.e. the parameters of the modeled probability distribution are controlled by a neural network. In probabilistic regression we model a condtional distribution for the outcome, conditioned on input data which can e.g. be tabular data or images. From this prespective DL models are just a complex generalisation of statistical models like linear regression. The parameters of the involved neural networks itself (often called weights) can be determined by the maximum likelihood principle. The basic idea can be sketched as:
+In this short course on deep learning (DL) with R we focus on practical aspects of DL. We understand DL models as probabilistic models which model a (conditional) distribution for the outcome and not only a point estimation. Often this is achieved by modeling the parameters of a probability distribution and the distribution parameters are controlled by a neural network. The DL approach has the advantage, that the input to these neural networks can be all kind of data: tabular (structured) data, but also unstructured raw data like images or text. From this prespective DL models are just a complex generalisation of statistical models like linear regression. The parameters of the involved neural networks itself (often called weights) can be determined by the maximum likelihood principle. The basic idea can be sketched as:
 
 <img src="https://github.com/tensorchiefs/dl_rcourse_2022/raw/main/ch05_00_opener.jpg" width="40%">
 
@@ -19,7 +19,7 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * Probabilistic Deep Learning (DL-Book) [Probabilistic Deep Learning](https://www.manning.com/books/probabilistic-deep-learning?a_aid=probabilistic_deep_learning&a_bid=78e55885). This book is by us, the tensorchiefs, and covers the probabilistic approach to deep learning unsing Python, Keras, and TensorFlow. We will not cover all aspects of this book during the course.  
 
-* Deep Learning with R [https://tensorflow.rstudio.com/](https://tensorflow.rstudio.com/). Nice resource with tutorials in R.
+* Deep Learning with R [https://tensorflow.rstudio.com/](https://tensorflow.rstudio.com/). Nice resource with DL tutorials in R.
 
 * Deep Learning Book (DL-Book) [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/). This is a quite comprehensive book which goes far beyond the scope of this course. 
 
