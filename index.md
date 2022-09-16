@@ -62,5 +62,17 @@ The course is split in 5 lectures, which excercises. You will also work on a pro
 | 4   (under construction) |Prob. Deep Learning. [slides](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/slides/04_prob_dl.pdf) || [1D Regression with TFP (06-1d-regression.ipynb)](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-1d-regression.ipynb) <br>
 
 
+## Links to the notebooks
+<!-- The links are created with the script internal/Create_Notebooks_Table.R -->
+The link in the Kaggle Column opens the Notebook in Kaggle. You might need to change the language from to python to R (File --> Language)
 
 
+| Name     | Kaggle | Git-Hub |
+|:----------------:|:-------|:------|
+|00_R_Keras_TF_TFP.ipynb|[00_R_Keras_TF_TFP.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb)|[00_R_Keras_TF_TFP.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb)|
+|01_dl-r-banknote.ipynb|[01_dl-r-banknote.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/01_dl-r-banknote.ipynb)|[01_dl-r-banknote.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/01_dl-r-banknote.ipynb)|
+|02_nb_ch02_02a.ipynb|[02_nb_ch02_02a.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/02_nb_ch02_02a.ipynb)|[02_nb_ch02_02a.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/02_nb_ch02_02a.ipynb)|
+|03_nb_ch02_03.ipynb|[03_nb_ch02_03.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/03_nb_ch02_03.ipynb)|[03_nb_ch02_03.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/03_nb_ch02_03.ipynb)|
+|04_nb_ch02_03.ipynb|[04_nb_ch02_03.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/04_nb_ch02_03.ipynb)|[04_nb_ch02_03.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/04_nb_ch02_03.ipynb)|
+|05-nb-ch02-03.ipynb|[05-nb-ch02-03.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/05-nb-ch02-03.ipynb)|[05-nb-ch02-03.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/05-nb-ch02-03.ipynb)|
+|06-1d-regression.ipynb|[06-1d-regression.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-1d-regression.ipynb)|[06-1d-regression.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-1d-regression.ipynb)|
