@@ -20,7 +20,7 @@ choose one of the provided notebooks. On the right you have a 3-dots dropdown, w
 You also can use use colab (you need a google account) and an internet connections. However, at the moment (12 Sep 2022) GPU is not accessible for R-notebooks. An empty notebook for R can be started by clicking the following link 
 [https://colab.research.google.com/notebook#create=true&language=r](https://colab.research.google.com/notebook#create=true&language=r) (starts a colab notebook with R) 
 
-An example notebook, which installs the required DL-Liberies is  [00_R_Keras_TF_TFP](https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb). If you want to do it without internet connection, on your own computer you can try to install tensorflow, keras, and (for the latter lessons) tfprobability as done in the notebook [00_R_Keras_TF_TFP](https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb).   
+An example notebook, which installs the required DL-Liberies is  [00_R_Keras_TF_TFP] (https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb). If you want to do it without internet connection, on your own computer you can try to install tensorflow, keras, and (for the latter lessons) tfprobability as done in the notebook [00_R_Keras_TF_TFP](https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb).   
 
 
 ## Other resources 
