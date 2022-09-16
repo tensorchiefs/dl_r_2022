@@ -1,6 +1,19 @@
-# Some internal nodes for the course
+# Some internal notes for the course
+In the 2022 course in the R-Version of colab the GPU did not work. Therefore, we did switch to kaggle notebooks.
 
-## Handling notebooks
+## Kaggle
+The downside with kaggle NB is that they do not have TFP installed. How to install TFP is described in [tfp-with-r](https://www.kaggle.com/code/oduerr/tfp-with-r). The notebooks are in github and can be opened as descriped [here](https://www.kaggle.com/product-feedback/152480) this also shows how "direct" links to the notebooks can be generated. 
+
+Generation of links. The URL should have the following from `https://kaggle.com/kernels/welcome?src=` + `URL_OF_NOTEBOOK`
+The `URL_OF_NOTEBOOK` can be found by going to the notebook in github and from the context menu clicking "Copy Link Address" e.g. `https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-1d-regression.ipynb`, so a valid URL is 
+
+[https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-1d-regression.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-1d-regression.ipynb)
+
+Note however, that the language might needed to be changed to R in Kaggle. This script can create the  
+
+## Colab
+
+### Handling notebooks
 See also https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb 
 
 ### Opening colab notebooks for students
