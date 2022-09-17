@@ -7,20 +7,18 @@ In this short course on deep learning (DL) with R we focus on practical aspects 
 <img src="https://github.com/tensorchiefs/dl_rcourse_2022/raw/main/ch05_00_opener.jpg" width="40%">
 
 ## Technicalities
-This course is done in R. The used DL libraries are keras, tensorflow, and tensorflow probability. 
+This course is done in R. The used DL libraries are Keras, Tensorflow, and Tensorflow Probability. You can run the code in the cloud (Kaggle / Colab) or on you computer. For 2022, we support the Kaggle approach (Colab does currently not support GPUs from R).
 
-### kaggle Notebooks
-For doing the hands-on part you can use kaggle notebooks, which allow you to use a GPU. Go to [kaggle.com](kaggle.com) and register. After your first login, you need to do a phone verfication (click to your symbol on thr right, account, phone verification). With a verified kaggle account, you can select "code" on the menu (left), new notebook, import notebook via github (cat symbol): 
-```
-tensorchiefs/dl_rcourse_2022
-```
-choose one of the provided notebooks. On the right you have a 3-dots dropdown, where you can select acceleration with GPU.
+### Kaggle Notebooks
+For doing the hands-on part you can use kaggle notebooks, which allow you to use a GPU. Go to [kaggle.com](kaggle.com) and register. After your first login, you need to do a phone verfication (click to your symbol on thr right, account, phone verification). With a verified kaggle account, you can select "code" on the menu (left), new notebook, import notebook via github (cat symbol) from `tensorchiefs/dl_rcourse_2022`. Alternatively you can directly open the notebooks from the links provided below. On the right you have a 3-dots dropdown, where you can select acceleration with GPU, if needed for that notebook.
 
-### colab Notebooks
-You also can use use colab (you need a google account) and an internet connections. However, at the moment (12 Sep 2022) GPU is not accessible for R-notebooks. An empty notebook for R can be started by clicking the following link 
+### Colab Notebooks
+You also can use use Colab (you need a google account) and an internet connections. However, at the moment (12 Sep 2022) GPU is not accessible for R-notebooks. An empty notebook for R can be started by clicking the following link 
 [https://colab.research.google.com/notebook#create=true&language=r](https://colab.research.google.com/notebook#create=true&language=r) (starts a colab notebook with R) 
+An example notebook, which installs the required DL-Liberies is  [00_R_Keras_TF_TFP] (https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb). 
 
-An example notebook, which installs the required DL-Liberies is  [00_R_Keras_TF_TFP] (https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb). If you want to do it without internet connection, on your own computer you can try to install tensorflow, keras, and (for the latter lessons) tfprobability as done in the notebook [00_R_Keras_TF_TFP](https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb).   
+### Local Installation
+If you want to do it without Internet connection, on your own computer you can try to install Tensorflow, Keras, and (for the latter lessons) TensorFlow Probability. Check if the notebook [00_R_Keras_TF_TFP](https://colab.research.google.com/github/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/00_R_Keras_TF_TFP.ipynb) is running.   
 
 
 ## Other resources 
