@@ -10,7 +10,8 @@ In this short course on deep learning (DL) with R we focus on practical aspects 
 This course is done in R. The used DL libraries are Keras, Tensorflow, and Tensorflow Probability. You can run the code in the cloud (Kaggle / Colab) or on you computer. For 2022, we support the Kaggle approach (Colab does currently not support GPUs from R).
 
 ### Kaggle Notebooks
-For doing the hands-on part you can use kaggle notebooks, which allow you to use a GPU. Go to [kaggle.com](kaggle.com) and register. After your first login, you need to do a phone verfication (click to your symbol on thr right, account, phone verification). With a verified kaggle account, you can select "code" on the menu (left), new notebook, import notebook via github (cat symbol) from `tensorchiefs/dl_rcourse_2022`. Alternatively you can directly open the notebooks from the links provided below. On the right you have a 3-dots dropdown, where you can select acceleration with GPU, if needed for that notebook.
+For doing the hands-on part you can use kaggle notebooks, which allow you to use a GPU. Go to [kaggle.com](kaggle.com) and register. After your first login, you need to do a phone verfication in order to be able to use GPU acceleration and internet (click to your symbol on thr right, account, phone verification). You can directly open the kaggle notebooks from the links provided at the end of this webpage. On the right you have a 3-dots dropdown, where you can select acceleration with GPU, if needed for that notebook.
+If you want to open NB from an github account, you can select "code" on the menu (left), new notebook, import notebook via github (cat symbol) (e.g. from `tensorchiefs/dl_rcourse_2022`). 
 
 ### Colab Notebooks
 You also can use use Colab (you need a google account) and an internet connections. However, at the moment (12 Sep 2022) GPU is not accessible for R-notebooks. An empty notebook for R can be started by clicking the following link 
