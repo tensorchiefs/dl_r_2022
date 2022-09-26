@@ -50,7 +50,6 @@ The course is split in 5 lectures, which excercises. You will also work on a pro
 |  03.10.2022| Hands-on DL: This day is reserved to work on your projects on site
 |  10.10.2022| Lecture 5 and presentatation of the projects
 
-Please register your project by Friday 30 October 2022 in https://docs.google.com/spreadsheets/d/1r4pWgXwxeJ6jWNaHeOUpjRnuUSktZYKcpo3lBk7it6I/edit?usp=sharing
 
 
 ## Syllabus (might change during course) 
@@ -79,3 +78,7 @@ The link in the Kaggle Column opens the Notebook in Kaggle. You might need to ch
 |06-into-tfp.ipynb|[06-into-tfp.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-into-tfp.ipynb)|[06-into-tfp.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/06-into-tfp.ipynb)|
 |07-utkface.ipynb|[07-utkface.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/07-utkface.ipynb)|[07-utkface.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/07-utkface.ipynb)|
 |08-countdata.ipynb|[08-countdata.ipynb](https://kaggle.com/kernels/welcome?src=https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/08-countdata.ipynb)|[08-countdata.ipynb](https://github.com/tensorchiefs/dl_rcourse_2022/blob/main/notebooks/08-countdata.ipynb)|
+
+## Projects
+Please register your project by Friday 30 October 2022 in https://docs.google.com/spreadsheets/d/1r4pWgXwxeJ6jWNaHeOUpjRnuUSktZYKcpo3lBk7it6I/edit?usp=sharing
+
