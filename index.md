@@ -50,6 +50,8 @@ The course is split in 5 lectures, which excercises. You will also work on a pro
 |  03.10.2022| Hands-on DL: This day is reserved to work on your projects on site
 |  10.10.2022| Lecture 5 and presentatation of the projects
 
+Please register your project by Friday 30 October 2022 in https://docs.google.com/spreadsheets/d/1r4pWgXwxeJ6jWNaHeOUpjRnuUSktZYKcpo3lBk7it6I/edit?usp=sharing
+
 
 ## Syllabus (might change during course) 
 
