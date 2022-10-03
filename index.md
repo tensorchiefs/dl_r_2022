@@ -81,4 +81,4 @@ The link in the Kaggle Column opens the Notebook in Kaggle. You might need to ch
 
 ## Projects
 Please register your project by Friday 30 October 2022 in https://docs.google.com/spreadsheets/d/1r4pWgXwxeJ6jWNaHeOUpjRnuUSktZYKcpo3lBk7it6I/edit?usp=sharing
-You can find some tipps for preprocessing or augmenting data in (https://tensorflow.rstudio.com/guides/keras/preprocessing_layers)[https://tensorflow.rstudio.com/guides/keras/preprocessing_layers]
+You can find some tipps for preprocessing or augmenting data in [https://tensorflow.rstudio.com/guides/keras/preprocessing_layers](https://tensorflow.rstudio.com/guides/keras/preprocessing_layers)
